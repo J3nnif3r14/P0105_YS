@@ -8,6 +8,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
 
+        System.out.println("박태훈");
         System.out.println("Zerockcode1..............");
     }
 }
