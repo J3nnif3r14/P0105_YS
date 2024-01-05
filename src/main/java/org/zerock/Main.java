@@ -9,5 +9,7 @@ public class Main {
         System.out.printf("Hello and welcome!");
 
         System.out.println("Hi, I'm youngsil :) ");
+        System.out.println("박태훈");
+        System.out.println("Zerockcode1..............");
     }
 }
